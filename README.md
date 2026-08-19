@@ -107,9 +107,9 @@ python3 --version
 Clone o repositório:
 
 ```bash
-git clone https://github.com/seu_usuario/network-discovery-inventory.git
+git clone https://github.com/paulocfmarques-collab/winows_discovery.git
 
-cd network-discovery-inventory
+cd windows_discovery
 ```
 
 Instale dependências Python:
